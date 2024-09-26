@@ -1,0 +1,3 @@
+[submodule "mikuMikuAnimation"]
+	path = mikuMikuAnimation
+	url = https://github.com/unjerry/mikuMikuAnimation.git
